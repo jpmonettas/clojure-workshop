@@ -1,0 +1,13 @@
+"the greatest single programming language ever designed"
+
+- Alan Kay
+
+
+"Some may say Ruby is a bad rip-off of Lisp or Smalltalk, and I admit that. But it is nicer to ordinary people."
+
+- Matz, LL2
+
+
+"We were not out to win over the Lisp programmers; we were after the C++ programmers. We managed to drag a lot of them about halfway to Lisp."
+
+- Guy Steele, Java spec co-author

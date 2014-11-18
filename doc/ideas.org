@@ -1,0 +1,47 @@
+* Clojure features to expose
+** It's a lisp
+  - Data <-> code
+  - Prefix notation
+  - everithing behave like a function 
+  - no distictions between functions and ops (reduce +) or custom apply
+  - macros (find a good example here (threading macro maybe))
+
+** Clojure
+   - Compiles to JVM, .NET, JS
+   - Immutability (PDS)
+   - Data literals
+   - Functional language (mostly)
+     - Create programs by composing functions instead of mutating state
+     - Unit testing
+   - Concurrency
+   - Hosting language integration (examples)
+
+** Tooling
+   - Cider
+   - Intellij
+   - Eclipse
+   - Lighttable
+
+** Others
+   - Core async
+   - Logic prog
+   - Typed
+
+** REPL
+
+** Polymorphism
+
+** Lazy seq (collection api is lazy)
+
+** Leiningen
+
+** Ring/Compojure
+
+
+** Developing using the REPL
+*** Example 1 ()
+
+
+
+* Slides
+** 
